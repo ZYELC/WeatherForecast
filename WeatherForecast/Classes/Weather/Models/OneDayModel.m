@@ -2,8 +2,8 @@
 //  OneDayModel.m
 //  WeatherForecast
 //
-//  Created by qianfeng on 15/10/10.
-//  Copyright © 2015年 qianfeng. All rights reserved.
+//  Created by qianfeng on 14/5/10.
+//  Copyright © 2014年 zhangying. All rights reserved.
 //
 
 #import "OneDayModel.h"

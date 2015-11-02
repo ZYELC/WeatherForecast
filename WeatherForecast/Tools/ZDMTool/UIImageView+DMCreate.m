@@ -2,8 +2,8 @@
 //  UIImageView+DMCreate.m
 //  WeatherForecast
 //
-//  Created by qianfeng on 15/10/16.
-//  Copyright © 2015年 qianfeng. All rights reserved.
+//  Created by qianfeng on 14/5/16.
+//  Copyright © 2014年 zhangying. All rights reserved.
 //
 
 #import "UIImageView+DMCreate.h"
